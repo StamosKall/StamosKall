@@ -11,14 +11,8 @@
 - 📊 R & SQL  
 - 🗄️ Data Analysis & Engineering  
 - ⚙️ Backend Development  
-- ☁️ Docker • Git • GitHub Actions  
-
-
----
-
-## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=StamosKall&show_icons=true&theme=radical)  
-
+- ☁️ Docker • Git • GitHub Actions
+    
 ---
 
 ## 🔗 Connect with me  
